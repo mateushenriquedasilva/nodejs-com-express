@@ -6,3 +6,4 @@ __Criar uma endpoint para users💁‍♂️:__
 * Criar usuário (POST)
 * Modificar usuário (PUT)
 * Remover usuário (DELETE)
+

@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "name": "nodejs",
+  "description": "*** __Objetivos da Aula 📗__",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "Matheus H",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateushenriquedasilva/nodejs-com-express.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/mateushenriquedasilva/nodejs-com-express/issues"
+  },
+  "homepage": "https://github.com/mateushenriquedasilva/nodejs-com-express#readme"
+}

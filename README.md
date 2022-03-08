@@ -19,3 +19,15 @@ __Objetivos da Aula 📗__
 * Framework web minimalista e rápido para NodeJS
 * Fornece uma estrutura e conjunto de recursos robustos para aplicações Web e mobile
 * Dispõe de métodos utilitários HTTP e middlewares para criar uma API rápida e segura
+
+***
+
+
+**About me:**
+- 💻 I'm &lt;Web developer/&gt;
+- ⚛️ JavaScript | TypeScript | NodeJS | React
+- 📩 Talk to me by the discord: **Matheus Henrique#7802**
+- 🧑🏾‍💻 Go to my [Linkedin](https://www.linkedin.com/in/matheus-silva19/)
+- ✍🏿 Write me an <a href="mailto:matheushenriquedasilvaa.2021@gmail.com" target="_blank">Email</a>
+- 👤 Follow me on [Instagram](https://www.instagram.com/themateusreal/)
+- 🖤 Never stop learning
